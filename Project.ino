@@ -1,7 +1,7 @@
 
 /* ==========================================================
 Project : Smart house
-Author: Ko Fukushima and oscar
+Author: Ko Fukushima and Oscar Morales
 Created: 8th 11 2016
 Description: Collecting the sensor's information
 ==============================================================
